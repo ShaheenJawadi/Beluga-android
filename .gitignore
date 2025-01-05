@@ -14,3 +14,6 @@
 .cxx
 local.properties
 /.idea/material_theme_project_new.xml
+/.idea
+/.vscode
+flow.ps1
